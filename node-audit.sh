@@ -9,6 +9,7 @@ declare -a arr=(
   'nodejs-de'
   'nodejs-ja'
   'nodejs-uk'
+  'nodejs-zh-CN'
   'nodejs-zh-TW'
   'nodejs-fr'
   'nodejs-nl'
