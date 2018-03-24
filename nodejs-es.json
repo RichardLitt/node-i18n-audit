@@ -1,0 +1,71 @@
+{
+  "prCreators": [
+    {
+      "login": "WellingGuzman",
+      "name": "W.R. Guzmán",
+      "url": "https://github.com/WellingGuzman",
+      "count": 2
+    }
+  ],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "JaySeeCode",
+      "name": "Juan Carlos Gonzalez",
+      "url": "https://github.com/JaySeeCode",
+      "count": 1
+    },
+    {
+      "login": "luishzapata",
+      "name": "Luis",
+      "url": "https://github.com/luishzapata",
+      "count": 1
+    },
+    {
+      "login": "hackygolucky",
+      "name": "Tracy",
+      "url": "https://github.com/hackygolucky",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "pankas87",
+      "name": "Leonardo Graterol",
+      "url": "https://github.com/pankas87",
+      "count": 2
+    },
+    {
+      "login": "JaySeeCode",
+      "name": "Juan Carlos Gonzalez",
+      "url": "https://github.com/JaySeeCode",
+      "count": 1
+    },
+    {
+      "login": "fforres",
+      "name": "Felipe Torres (fforres)",
+      "url": "https://github.com/fforres",
+      "count": 1
+    },
+    {
+      "login": "enBonnet",
+      "name": "Ender Bonnet",
+      "url": "https://github.com/enBonnet",
+      "count": 1
+    }
+  ],
+  "reviewers": [
+    {
+      "login": "pandres95",
+      "name": "Pablo Andrés Dorado Suárez",
+      "url": "https://github.com/pandres95",
+      "count": 1
+    }
+  ]
+}

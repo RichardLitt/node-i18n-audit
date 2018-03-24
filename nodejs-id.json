@@ -1,0 +1,27 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    },
+    {
+      "login": "naskapal",
+      "name": "Rizky Agung Saputro",
+      "url": "https://github.com/naskapal",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "diorahman",
+      "name": "Dhi Aurrahman",
+      "url": "https://github.com/diorahman",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

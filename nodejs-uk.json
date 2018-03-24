@@ -1,0 +1,75 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "fhemberger",
+      "name": "Frederic Hemberger",
+      "url": "https://github.com/fhemberger",
+      "count": 1
+    },
+    {
+      "login": "hackygolucky",
+      "name": "Tracy",
+      "url": "https://github.com/hackygolucky",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "denysdovhan",
+      "name": "Denys Dovhan",
+      "url": "https://github.com/denysdovhan",
+      "count": 2
+    },
+    {
+      "login": "styfle",
+      "name": "Steven",
+      "url": "https://github.com/styfle",
+      "count": 1
+    },
+    {
+      "login": "Trott",
+      "name": "Rich Trott",
+      "url": "https://github.com/Trott",
+      "count": 1
+    },
+    {
+      "login": "fhemberger",
+      "name": "Frederic Hemberger",
+      "url": "https://github.com/fhemberger",
+      "count": 1
+    },
+    {
+      "login": "korzhyk",
+      "name": "Andrii Korzh",
+      "url": "https://github.com/korzhyk",
+      "count": 1
+    },
+    {
+      "login": "RReverser",
+      "name": "Ingvar Stepanyan",
+      "url": "https://github.com/RReverser",
+      "count": 1
+    },
+    {
+      "login": "hackygolucky",
+      "name": "Tracy",
+      "url": "https://github.com/hackygolucky",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

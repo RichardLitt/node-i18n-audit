@@ -1,0 +1,89 @@
+{
+  "prCreators": [
+    {
+      "login": "TiagoDanin",
+      "name": "Tiago Danin",
+      "url": "https://github.com/TiagoDanin",
+      "count": 1
+    }
+  ],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "jorgeluisrezende",
+      "name": "Jorge Luis",
+      "url": "https://github.com/jorgeluisrezende",
+      "count": 3
+    },
+    {
+      "login": "fcampinho",
+      "name": "Fabio Campinho",
+      "url": "https://github.com/fcampinho",
+      "count": 1
+    },
+    {
+      "login": "rictorres",
+      "name": "Ricardo Torres",
+      "url": "https://github.com/rictorres",
+      "count": 1
+    },
+    {
+      "login": "brunobelarmino",
+      "name": "Bruno Belarmino",
+      "url": "https://github.com/brunobelarmino",
+      "count": 1
+    },
+    {
+      "login": "cezaraugusto",
+      "name": "Cezar Augusto",
+      "url": "https://github.com/cezaraugusto",
+      "count": 1
+    },
+    {
+      "login": "gustavohenke",
+      "name": "Gustavo Henke",
+      "url": "https://github.com/gustavohenke",
+      "count": 1
+    },
+    {
+      "login": "TiagoDanin",
+      "name": "Tiago Danin",
+      "url": "https://github.com/TiagoDanin",
+      "count": 1
+    },
+    {
+      "login": "JCMais",
+      "name": "Jonathan Cardoso Machado",
+      "url": "https://github.com/JCMais",
+      "count": 1
+    },
+    {
+      "login": "ruimarinho",
+      "name": "Rui Marinho",
+      "url": "https://github.com/ruimarinho",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": [
+    {
+      "login": "gustavohenke",
+      "name": "Gustavo Henke",
+      "url": "https://github.com/gustavohenke",
+      "count": 1
+    }
+  ]
+}

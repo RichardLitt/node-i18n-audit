@@ -1,0 +1,77 @@
+{
+  "prCreators": [
+    {
+      "login": "behcet",
+      "name": "Behcet",
+      "url": "https://github.com/behcet",
+      "count": 1
+    }
+  ],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "gokaygurcan",
+      "name": "Gökay Gürcan",
+      "url": "https://github.com/gokaygurcan",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "KiPSOFT",
+      "name": "Serkan KOCAMAN",
+      "url": "https://github.com/KiPSOFT",
+      "count": 2
+    },
+    {
+      "login": "mzgnr",
+      "name": "mzgnr",
+      "url": "https://github.com/mzgnr",
+      "count": 1
+    },
+    {
+      "login": "c0b41",
+      "name": "Ayhan",
+      "url": "https://github.com/c0b41",
+      "count": 1
+    },
+    {
+      "login": "gokaygurcan",
+      "name": "Gökay Gürcan",
+      "url": "https://github.com/gokaygurcan",
+      "count": 1
+    },
+    {
+      "login": "behcet",
+      "name": "Behcet",
+      "url": "https://github.com/behcet",
+      "count": 1
+    },
+    {
+      "login": "yasinaydin",
+      "name": "Ozgur Yasin Aydin",
+      "url": "https://github.com/yasinaydin",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": [
+    {
+      "login": "yasinaydin",
+      "name": "Ozgur Yasin Aydin",
+      "url": "https://github.com/yasinaydin",
+      "count": 1
+    }
+  ]
+}

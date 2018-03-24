@@ -1,0 +1,83 @@
+{
+  "prCreators": [
+    {
+      "login": "watilde",
+      "name": "Daijiro Wachi",
+      "url": "https://github.com/watilde",
+      "count": 2
+    }
+  ],
+  "prCommentators": [
+    {
+      "login": "tgfjt",
+      "name": "Takashi Fujita",
+      "url": "https://github.com/tgfjt",
+      "count": 2
+    },
+    {
+      "login": "okuryu",
+      "name": "Ryuichi Okumura",
+      "url": "https://github.com/okuryu",
+      "count": 2
+    }
+  ],
+  "issueCreators": [
+    {
+      "login": "watilde",
+      "name": "Daijiro Wachi",
+      "url": "https://github.com/watilde",
+      "count": 1
+    },
+    {
+      "login": "hackygolucky",
+      "name": "Tracy",
+      "url": "https://github.com/hackygolucky",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "watilde",
+      "name": "Daijiro Wachi",
+      "url": "https://github.com/watilde",
+      "count": 10
+    },
+    {
+      "login": "hiroppy",
+      "name": "Yuta Hiroto",
+      "url": "https://github.com/hiroppy",
+      "count": 3
+    },
+    {
+      "login": "tdtsh",
+      "name": "Tadatoshi Hanazaki",
+      "url": "https://github.com/tdtsh",
+      "count": 2
+    },
+    {
+      "login": "yosuke-furukawa",
+      "name": "Yosuke Furukawa",
+      "url": "https://github.com/yosuke-furukawa",
+      "count": 2
+    },
+    {
+      "login": "okuryu",
+      "name": "Ryuichi Okumura",
+      "url": "https://github.com/okuryu",
+      "count": 1
+    },
+    {
+      "login": "hackygolucky",
+      "name": "Tracy",
+      "url": "https://github.com/hackygolucky",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

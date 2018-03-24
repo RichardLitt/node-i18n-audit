@@ -1,0 +1,27 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "lukaszewczak",
+      "name": "Łukasz Szewczak",
+      "url": "https://github.com/lukaszewczak",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

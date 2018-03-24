@@ -1,0 +1,33 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "benjamingr",
+      "name": "Benjamin Gruenbaum",
+      "url": "https://github.com/benjamingr",
+      "count": 3
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 3
+    },
+    {
+      "login": "AvnerCohen",
+      "name": "Avner Cohen",
+      "url": "https://github.com/AvnerCohen",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

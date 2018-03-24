@@ -1,0 +1,45 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "parro-it",
+      "name": "Andrea Parodi",
+      "url": "https://github.com/parro-it",
+      "count": 2
+    },
+    {
+      "login": "tk120404",
+      "name": "Arjunkumar",
+      "url": "https://github.com/tk120404",
+      "count": 1
+    },
+    {
+      "login": "mcollina",
+      "name": "Matteo Collina",
+      "url": "https://github.com/mcollina",
+      "count": 1
+    },
+    {
+      "login": "piccoloaiutante",
+      "name": "Michele Capra",
+      "url": "https://github.com/piccoloaiutante",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

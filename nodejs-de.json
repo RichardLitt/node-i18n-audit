@@ -1,0 +1,59 @@
+{
+  "prCreators": [
+    {
+      "login": "sotayamashita",
+      "name": "Sam Yamashita",
+      "url": "https://github.com/sotayamashita",
+      "count": 1
+    }
+  ],
+  "prCommentators": [
+    {
+      "login": "fhemberger",
+      "name": "Frederic Hemberger",
+      "url": "https://github.com/fhemberger",
+      "count": 1
+    },
+    {
+      "login": "sotayamashita",
+      "name": "Sam Yamashita",
+      "url": "https://github.com/sotayamashita",
+      "count": 1
+    }
+  ],
+  "issueCreators": [
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "fhemberger",
+      "name": "Frederic Hemberger",
+      "url": "https://github.com/fhemberger",
+      "count": 4
+    },
+    {
+      "login": "sotayamashita",
+      "name": "Sam Yamashita",
+      "url": "https://github.com/sotayamashita",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    },
+    {
+      "login": "juliangruber",
+      "name": "Julian Gruber",
+      "url": "https://github.com/juliangruber",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}

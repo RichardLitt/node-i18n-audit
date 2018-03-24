@@ -1,0 +1,51 @@
+{
+  "prCreators": [],
+  "prCommentators": [],
+  "issueCreators": [
+    {
+      "login": "Tiriel",
+      "name": "Benjamin Zaslavsky",
+      "url": "https://github.com/Tiriel",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "issueCommentators": [
+    {
+      "login": "Tiriel",
+      "name": "Benjamin Zaslavsky",
+      "url": "https://github.com/Tiriel",
+      "count": 3
+    },
+    {
+      "login": "cedced19",
+      "name": "Cédric JUNG",
+      "url": "https://github.com/cedced19",
+      "count": 1
+    },
+    {
+      "login": "fxalgrain",
+      "name": "",
+      "url": "https://github.com/fxalgrain",
+      "count": 1
+    },
+    {
+      "login": "ram-you",
+      "name": "Ramzi Youssef",
+      "url": "https://github.com/ram-you",
+      "count": 1
+    },
+    {
+      "login": "obensource",
+      "name": "Ben Michel",
+      "url": "https://github.com/obensource",
+      "count": 1
+    }
+  ],
+  "reviewers": []
+}
